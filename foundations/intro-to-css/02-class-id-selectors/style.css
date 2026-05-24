@@ -1,1 +1,15 @@
+.pinkclass {
+    background-color: pink; 
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+#numberone {
+    color: blue;
+    font-size: 36px;
+}
+.cooler{
+    font-size: 24px;
+}
+#numberfour {
+    background-color: lightgreen; font-size: 24px; font-weight: bold;
+}
 /* Add CSS Styling */
