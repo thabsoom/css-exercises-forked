@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+.blbox, .ybox {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.blbox {
+    color: white;
+    background-color: black;
+}
+.ybox {
+    background-color: yellow;
+}
